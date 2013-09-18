@@ -1,5 +1,7 @@
 # Tubsted Color Theme
 
+![Demo](http://f.cl.ly/items/1T3J120935350W3h1c3s/Screen%20Shot%202013-09-18%20at%2017.03.18.png)
+
 Slightly modified version of [Tubster Color Theme](https://github.com/AaronHolbrook/Tubster-Color-Scheme) for my taste.
 
 ## Install
