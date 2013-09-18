@@ -15,7 +15,7 @@ put it manually inside your `Pacakages` directory. It should work but will not u
 
 ## Usage
 
-Add the following line to your Sublime Text preferences file: `"color_scheme": "Packages/sublime-tubsted-color-scheme/Tubsted.tmTheme"`.
+Add the following line to your Sublime Text preferences file: `"color_scheme": "Packages/Tubsted Color Schemes/Tubsted.tmTheme"`.
 
 ## Contributing
 
