@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>name</key>
-        <string>Tubster</string>
+        <string>Tubsted</string>
         <key>settings</key>
         <array>
             <dict>
@@ -1431,6 +1431,6 @@
             </dict>
         </array>
         <key>uuid</key>
-        <string>6859ADD2-5700-4A41-8B30-CE7A9BAC83D7</string>
+        <string>9AE24465-B7E2-4172-B8B4-80D3DB036676</string>
     </dict>
 </plist>
